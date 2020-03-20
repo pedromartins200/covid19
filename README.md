@@ -1,8 +1,7 @@
 # covid19
 Logistic model Covid19 in Portugal
 
-
-Followed the article:https://towardsdatascience.com/covid-19-infection-in-italy-mathematical-models-and-predictions-7784b4d7dd8d
+Following some articles i found in the internet...
 
 Just add the values in the csv and run the code in jupyter notebook
 
