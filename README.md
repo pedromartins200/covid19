@@ -5,7 +5,7 @@ Following some articles i found in the internet...
 
 Just add the values in the csv and run the code in jupyter notebook
 
-Currently at 01/04/2020
+Currently at 07/04/2020
 
 Python 3.7.4
 
